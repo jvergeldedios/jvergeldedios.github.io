@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jvergeldedios.github.io/sitemap.xml
+Sitemap: https://flyingburri.to/sitemap.xml
