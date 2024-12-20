@@ -2,6 +2,7 @@
 layout: post
 title: "Lessons from Papa - Lesson 1"
 tags: ["papa", "personal"]
+author: flyingburrito
 og_image: /assets/img/lessons-from-papa/papa-julian.jpg
 ---
 
