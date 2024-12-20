@@ -25,7 +25,7 @@ Hold your loved ones close, you really never know when they're going to go.
   Me and Papa at the <a href="https://en.wikipedia.org/wiki/South_Bay_Galleria">South Bay Galleria</a> c. 1988
 </div>
 
-***
+---
 
 I grew up in a suburb of Los Angeles in the 90s. I still live in the same neighborhood to this day. It's basically the ideal of post-WW2 United States. Cute minimal traditional style homes with manicured lawns on comfortably large lots with big back yards. They once upon a time housed factory workers for the booming LA aerospace industry.
 
