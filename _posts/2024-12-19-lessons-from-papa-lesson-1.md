@@ -20,7 +20,7 @@ Hold your loved ones close, you really never know when they're going to go.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/lessons-from-papa/papa-julian.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/lessons-from-papa/papa-julian.jpg" class="img-fluid rounded z-depth-1" alt="Me and Papa at the South Bay Galleria c. 1988. I'm less than 2 years old and Papa is embracing me close in his arms." %}
     </div>
 </div>
 <div class="caption">
