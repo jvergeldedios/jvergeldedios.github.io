@@ -2,6 +2,7 @@
 layout: post
 title: "Lessons from Papa - Lesson 1"
 tags: ["papa", "personal"]
+og_image: assets/img/lessons-from-papa/papa-julian.jpg
 ---
 
 I have been thinking of starting my blog for years at this point, but I never thought something like this would be the final push or the topic of my first post.
