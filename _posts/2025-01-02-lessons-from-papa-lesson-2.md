@@ -34,3 +34,4 @@ It was the beginning of the school year and it would be six weeks before my next
 His methods may have been questionable, but I can't argue that they weren't effective.
 
 The lesson I learned from Papa that day: people will run through brick walls for you if you figure out what motivates them.
+
