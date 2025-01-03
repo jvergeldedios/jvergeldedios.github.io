@@ -3,10 +3,23 @@ layout: post
 title: "Lessons from Papa - Lesson 2"
 tags: ["papa", "personal"]
 author: flyingburrito
-og_image: /assets/img/lessons-from-papa/papa-julian.jpg
+og_image: /assets/img/lessons-from-papa/papa-cigarette.jpg
 ---
 
 This post is part of a series memorializing my dad, Rolando Vergel de Dios, who passed away unexpectedly on November 29th, 2024. For the full context it's best to start at the beginning: [Lesson 1](/blog/2024/lessons-from-papa-lesson-1).
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/lessons-from-papa/papa-cigartte.jpg" class="img-fluid rounded z-depth-1" alt="Black and white photo of Papa posing with a cigarette in front of a wall for his entry in the Asian Institute of Management yearbook c. 1978" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/lessons-from-papa/papa-motorcycle.jpg" class="img-fluid rounded z-depth-1" alt="Black and white photo of Papa posing next to his motorcycle at a building at the Asian Institute of Management c. 1978" %}
+    </div>
+</div>
+<div class="caption">
+  Papa looking cool for his yearbook photos at the Asian Institute of Management c. 1978
+</div>
+
 
 ---
 
