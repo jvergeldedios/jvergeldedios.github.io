@@ -10,7 +10,7 @@ This post is part of a series memorializing my dad, Rolando Vergel de Dios, who 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/lessons-from-papa/papa-cigartte.jpg" class="img-fluid rounded z-depth-1" alt="Black and white photo of Papa posing with a cigarette in front of a wall for his entry in the Asian Institute of Management yearbook c. 1978" %}
+        {% include figure.liquid loading="eager" path="assets/img/lessons-from-papa/papa-cigarette.jpg" class="img-fluid rounded z-depth-1" alt="Black and white photo of Papa posing with a cigarette in front of a wall for his entry in the Asian Institute of Management yearbook c. 1978" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/lessons-from-papa/papa-motorcycle.jpg" class="img-fluid rounded z-depth-1" alt="Black and white photo of Papa posing next to his motorcycle at a building at the Asian Institute of Management c. 1978" %}
@@ -19,7 +19,6 @@ This post is part of a series memorializing my dad, Rolando Vergel de Dios, who 
 <div class="caption">
   Papa looking cool for his yearbook photos at the Asian Institute of Management c. 1978
 </div>
-
 
 ---
 
@@ -34,4 +33,3 @@ It was the beginning of the school year and it would be six weeks before my next
 His methods may have been questionable, but I can't argue that they weren't effective.
 
 The lesson I learned from Papa that day: people will run through brick walls for you if you figure out what motivates them.
-
